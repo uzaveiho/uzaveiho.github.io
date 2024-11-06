@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uzaveiho.github.io/Bpj/sitemap_index.txt
+Sitemap: https://uzaveiho.github.io/GBN/sitemap_index.txt
+Sitemap: https://uzaveiho.github.io/XDN/sitemap_index.txt
+Sitemap: https://uzaveiho.github.io/aUI/sitemap_index.txt
